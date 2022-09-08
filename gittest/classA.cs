@@ -12,5 +12,8 @@ namespace gittest
         private string msAutoClip = "";
         private string msAutoClips1 = "";
 
+
+        private string forktest = "";
+
     }
 }
